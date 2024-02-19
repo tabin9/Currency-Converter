@@ -25,13 +25,11 @@ function App() {
     setConvertedAmount(amount * currencyInfo[to]);
   };
 
-  const backgroundImage = "./currency_background.PNG";
-
   return (
     <div
       className="w-full h-screen flex flex-wrap justify-center items-start bg-cover bg-no-repeat"
       style={{
-        backgroundImage: `url(${backgroundImage})`,
+        backgroundImage: `url("./currency_background.PNG")`,
       }}
     >
       <div
