@@ -25,7 +25,7 @@ function App() {
     setConvertedAmount(amount * currencyInfo[to]);
   };
 
-  const backgroundImage = "../src/currency_background.png";
+  const backgroundImage = "./src/currency_background.png";
 
   return (
     <div
