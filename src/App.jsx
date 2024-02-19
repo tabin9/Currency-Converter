@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div
-      className="w-full h-screen flex flex-wrap justify-center items-start bg-cover bg-no-repeat"
+      className="w-full h-screen flex flex-wrap justify-center items-start bg-custom bg-cover bg-no-repeat"
     >
       <div
         className="w-full max-w-sm mx-auto my-5 py-5 border border-gray-60 rounded-lg p-10 backdrop-blur-sm bg-white/30 cursor-pointer"
