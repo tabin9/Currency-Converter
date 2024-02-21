@@ -1,7 +1,8 @@
 ### Hello there.
 
 Try [Currency Converter](https://tabin9.github.io/Currency-Converter/)     
-Note: bg-image didn't work on github pages :(
+            Note: bg-image didn't work on github pages :(
+            If you can help, please do. Pull a request.
 
 This was one of my first React JS project. It was quite challenging. Concepts I learned / brushed up:
 
